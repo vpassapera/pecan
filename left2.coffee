@@ -1,4 +1,4 @@
-command: "bash Pecan/scripts/network"
+command: "bash -c echo ''"
 
 refreshFrequency: 5000 # ms
 
